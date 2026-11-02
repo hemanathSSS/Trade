@@ -1,0 +1,6 @@
+{
+  "name": "TradePulse 24/7",
+  "description": "24/7 Real-Time Market Watcher, Technical Indicator Engine, and Instant Trading Alert System with Telegram & Discord Webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
